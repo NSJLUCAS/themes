@@ -33,3 +33,7 @@ https://github.com/bluesmkun/y2k
 https://github.com/K23Flux/K23Flux-monitor-theme-ping
 https://github.com/kisukri/monitor-theme-crt
 https://github.com/bluesmkun/docxq
+https://github.com/LYISTR2/monitor-theme-raster
+https://github.com/LYISTR2/monitor-theme-solari
+https://github.com/LYISTR2/monitor-theme-dial
+https://github.com/LYISTR2/monitor-theme-phosphor
